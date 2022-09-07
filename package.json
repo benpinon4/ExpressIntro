@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/benpinon4/ExpressIntro/issues"
   },
-  "homepage": "https://github.com/benpinon4/ExpressIntro#readme"
+  "homepage": "https://github.com/benpinon4/ExpressIntro#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
